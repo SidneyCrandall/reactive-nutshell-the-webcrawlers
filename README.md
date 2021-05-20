@@ -12,8 +12,11 @@ git clone this repository
 
 ## Contributing
 [David Darden](https://github.com/DavidEdwardDarden)  
+
 [Sidney Crandall](https://github.com/SidneyCrandall)
+
 [Salma Crank](https://github.com/srcrank)
+
 [Jackson Goodman](https://github.com/jacksonrgoodman)  
 
 ## License
